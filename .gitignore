@@ -1,0 +1,25 @@
+# Maven build
+target/
+
+# IDE 設定
+.idea/
+.vscode/
+*.iml
+
+# 日誌與暫存
+logs/
+*.log
+*.tmp
+
+# OS 產生的檔
+.DS_Store
+Thumbs.db
+
+# 編譯/打包產物
+*.class
+*.jar
+*.war
+
+# 設定檔
+application.properties
+application.yml

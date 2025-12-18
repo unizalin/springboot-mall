@@ -1,14 +1,19 @@
 {
-    "configurations": [
-        {
-            "type": "java",
-            "name": "Spring Boot-SpringbootMallApplication<springboot-mall>",
-            "request": "launch",
-            "cwd": "${workspaceFolder}",
-            "mainClass": "com.unizalin.springboot_mall.SpringbootMallApplication",
-            "projectName": "springboot-mall",
-            "args": "",
-            "envFile": "${workspaceFolder}/.env"
-        }
-    ]
+  "version": "0.2.0",
+  "configurations": [
+    {
+        "type": "java",
+        "name": "SpringbootMallApplication",
+        "request": "launch",
+        "mainClass": "com.unizalin.springbootmall.SpringbootMallApplication",
+        "projectName": ""
+    },
+    {
+        "type": "java",
+        "name": "Spring Boot: SpringbootMallApplication",
+        "request": "launch",
+        "mainClass": "com.unizalin.springbootmall.SpringbootMallApplication",
+        "projectName": "springboot-mall"
+    }
+]
 }

@@ -1,4 +1,4 @@
-package com.unizalin.springboot_mall;
+package com.unizalin.springbootmall;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
